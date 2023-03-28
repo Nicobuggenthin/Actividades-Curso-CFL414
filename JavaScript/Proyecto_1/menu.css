@@ -1,0 +1,21 @@
+.menu{
+    list-style: none;
+    padding: 0;
+    background: #363636;
+    width: 45%;
+    margin: auto;
+    font-family: 'Rubik', sans-serif;
+}
+.menu li a{
+    text-decoration: none;
+    color: #DBDBDB;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background: #F5F5F5;
+}

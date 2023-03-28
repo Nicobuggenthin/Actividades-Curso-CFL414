@@ -1,0 +1,21 @@
+body{
+    background-color: #757575;
+}
+p{
+    color: #f1f2e4;
+    text-align: center;
+}
+#botones{
+    
+        text-decoration:none;
+        font-weight:600;
+        font-size:20px;
+        color:#f1f2e4;
+        padding-top:20px;
+        padding-bottom:20px;
+        padding-left:40px;
+        padding-right:40px;
+        background-color:#363636;
+        font-family: 'Rubik', sans-serif;
+
+}
